@@ -1,6 +1,6 @@
 # City Motifs as Revealed by Similarity Between Hierarchical Feature (Supplementary material)
 
-Supplementary material for
+Supplementary material for <br/>
 _City Motifs as Revealed by Similarity Between Hierarchical Feature<br/>
 GS Domingues, EK Tokuda and LF Costa<br/>
 ResearchGate_
